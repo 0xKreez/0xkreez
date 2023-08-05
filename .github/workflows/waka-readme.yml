@@ -10,29 +10,21 @@ jobs:
     name: My Coding Statistics Update
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          # content
           SHOW_TITLE: true
-          TITLE_TEXT: "📊 Weekly development breakdown"
-          SECTION_NAME: coding-stats
+          SECTION_NAME: "coding-stats"
           BLOCKS: "░▒▓█"
-          CODE_LANG: "last_7_days"
-          TIME_RANGE: true
+          CODE_LANG: "all_time_since_today"
+          TIME_RANGE: "last_7_days"
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          # commit
           COMMIT_MESSAGE: "Updated README with fresh coding stats"
           TARGET_BRANCH: master
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          AUTHOR_NAME: Kreez
-        
-          
-
+          COMMITTER_NAME: GitHub
