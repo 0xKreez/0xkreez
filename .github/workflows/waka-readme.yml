@@ -27,4 +27,5 @@ jobs:
           COMMIT_MESSAGE: "Updated README with fresh coding stats"
           TARGET_BRANCH: master
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHub
+          COMMITTER_NAME: GitHubActionBot
+          AUTHOR_NAME: Kreez
