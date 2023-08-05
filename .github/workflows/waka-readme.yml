@@ -19,7 +19,7 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
+          BLOCKS: "░▒▓█"
           CODE_LANG: all_time 
           TIME_RANGE: true
           LANG_COUNT: 10
@@ -32,7 +32,6 @@ jobs:
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Athul
-          AUTHOR_EMAIL: athul@example.org
-          # you can populate email-id with secretes instead
+          AUTHOR_NAME: Kreez
+          
+      
