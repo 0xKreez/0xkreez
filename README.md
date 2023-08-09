@@ -1,4 +1,4 @@
-### Pandemonium Acrobat 
+### Pandemonium Acrobat 🤸
 
 <!--START_SECTION:waka-->
 
