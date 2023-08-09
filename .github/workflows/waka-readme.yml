@@ -11,9 +11,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2 # This step checks out the repo, which is generally required
-
-      - uses: athul/waka-readme@v2.0.0 # Change this to the latest version
+      - uses: athul/waka-readme@master
+ # Change this to the latest version
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
