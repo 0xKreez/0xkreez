@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 08 August 2023 - To: 15 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Total Time: 5 hrs 16 mins
+Total Time: 3 hrs 43 mins
 
-JavaScript   4 hrs 12 mins   ████████████████████░░░░░   79.46 %
-Solidity     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   2 hrs 49 mins   ███████████████████░░░░░░   75.89 %
+Solidity     21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Bash         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
