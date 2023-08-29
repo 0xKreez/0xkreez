@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-Total Time: 1 hr 51 mins
+Total Time: 3 hrs 35 mins
 
-JavaScript       1 hr 42 mins    ███████████████████████░░   92.01 %
-JSON             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript       3 hrs 26 mins   ████████████████████████░   95.87 %
+JSON             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
