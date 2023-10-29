@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 October 2023 - To: 26 October 2023
+From: 20 October 2023 - To: 27 October 2023
 
-Total Time: 27 mins
+Total Time: 47 mins
 
-Bash         25 mins         ██████████████▓░░░░░░░░░░   58.15 %
-Other        16 mins         █████████▒░░░░░░░░░░░░░░░   37.69 %
+Bash         45 mins         ███████████████▓░░░░░░░░░   62.16 %
+Other        25 mins         █████████░░░░░░░░░░░░░░░░   35.34 %
 ```
 
 <!--END_SECTION:waka-->
