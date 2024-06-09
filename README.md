@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 May 2024 - To: 06 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 Total Time: 0 secs
 
