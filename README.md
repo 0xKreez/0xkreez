@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 October 2024 - To: 20 October 2024
+From: 14 October 2024 - To: 21 October 2024
 
-Total Time: 36 mins
+Total Time: 32 mins
 
-JavaScript   24 mins         ██████████████░░░░░░░░░░░   55.91 %
-Bash         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Other        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+JavaScript   20 mins         █████████████░░░░░░░░░░░░   51.44 %
+Bash         9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.76 %
+Other        8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.29 %
 ```
 
 <!--END_SECTION:waka-->
