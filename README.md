@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 September 2025 - To: 02 October 2025
+From: 27 September 2025 - To: 04 October 2025
 
-Total Time: 13 mins
+Total Time: 45 mins
 
-JSON   13 mins         █████████████████████████   100.00 %
+Markdown     41 mins         ████████████████▓░░░░░░░░   66.88 %
+Other        16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
 ```
 
 <!--END_SECTION:waka-->
